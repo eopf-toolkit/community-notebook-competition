@@ -2,7 +2,7 @@
 
 Welcome to the [EOPF Toolkit Community Notebook Competition](https://thrivegeo.com/eopf-community-notebook-competition/)! We're inviting Sentinel data users and developers to create and submit their own innovative Jupyter Notebooks. The goal? To showcase the power of cloud-native workflows using the EOPF Zarr Sample Service and its accompanying plugins.
 
-This competition is a great opportunity to expand your skills, contribute to the Earth observation community, and win prizes. Whether you're a seasoned expert or just starting your journey into cloud-native data, this competition is for you. We'll provide all the resources you need to get started, including the EOPF 101 book, which is packed with case studies, example notebooks, and documentation.
+This competition is a great opportunity to expand your skills, contribute to the Earth observation community, and win prizes. Whether you're a seasoned expert or just starting your journey into cloud-native data, this competition is for you. We'll provide all the resources you need to get started, including the [EOPF 101 book](https://eopf-toolkit.github.io/eopf-101/), which is packed with case studies, example notebooks, and documentation.
 
 ## How to Participate
 The competition is structured in five stages, designed to guide you from learning to submission and, finally, to an awards showcase.
