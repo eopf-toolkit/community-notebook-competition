@@ -1,6 +1,6 @@
-# The EOPF Toolkit Community Notebook Competition
+# The EOPF Zarr Community Notebook Competition
 
-Welcome to the [EOPF Toolkit Community Notebook Competition](https://thrivegeo.com/eopf-community-notebook-competition/)! We're inviting Sentinel data users and developers to create and submit their own innovative Jupyter Notebooks. The goal? To showcase the power of cloud-native workflows using the EOPF Zarr Sample Service and its accompanying plugins.
+Welcome to the [EOPF Zarr Community Notebook Competition](https://thrivegeo.com/eopf-community-notebook-competition/)! We're inviting Sentinel data users and developers to create and submit their own innovative Jupyter Notebooks. The goal? To showcase the power of cloud-native workflows using the EOPF Zarr Sample Service and its accompanying plugins.
 
 This competition is a great opportunity to expand your skills, contribute to the Earth observation community, and win prizes. Whether you're a seasoned expert or just starting your journey into cloud-native data, this competition is for you. We'll provide all the resources you need to get started, including the [EOPF 101 book](https://eopf-toolkit.github.io/eopf-101/), which is packed with case studies, example notebooks, and documentation.
 
@@ -19,7 +19,7 @@ The [EOPF Sentinel Zarr Sample Service JupyterLab](https://jupyterhub.user.eopf.
 
 
 ### Stage 3: Notebook Submission
-Submit your completed Jupyter Notebook via GitHub once complete. Clear guidelines, a notebook template and evaluation criteria will be provided in advance via this GitHub repository. We will also provide some challenge prompts to help get you started. Stay tuned!
+Submit your completed Jupyter Notebook via GitHub once complete, by 30 January 2026 (23:59 UTC+1). Clear guidelines, a notebook template and evaluation criteria will be provided in advance via this GitHub repository. We will also provide some challenge prompts to help get you started. Stay tuned!
 
 ### Stage 4: Judging & Evaluation
 A panel of expert judges will evaluate each submission based on technical soundness, effective use of the EOPF Zarr data and plugins and educational quality.
