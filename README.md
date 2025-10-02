@@ -29,7 +29,7 @@ The competition culminates in an online awards showcase where winners and highly
 
 The top notebooks will be featured in the EOPF 101 book as new case studies and you will be given the chance to be a co-author of a publication on EOPF 101. 
 
-There is also a prize pool of 10 000 Euros in upskilling vouchers sponsored by [thriveGEO](https://www.thrivegeo.com).
+There is also a prize pool of 10 000 Euros in upskilling vouchers sponsored by [thriveGEO](https://www.thrivegeo.com). In addition, there will be exciting ESA swag such as Sentinel-2 Lego sets up for grabs! 
 
 ## Rules and Eligibility
 ### Eligibility
