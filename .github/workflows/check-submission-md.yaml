@@ -2,6 +2,8 @@ name: Validate submission.md
 
 on:
   pull_request:
+    paths:
+      - 'submissions/**'
 
 jobs:
   validate-submission:
