@@ -1,0 +1,65 @@
+{
+    "type": "object",
+    "properties": {
+        "contact_name": {
+            "type": "string",
+            "minLength": 1
+        },
+        "email_address": {
+            "type": "string",
+            "format": "email"
+        },
+        "notebook_authors": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "minItems": 1
+        },
+        "notebook_title": {
+            "type": "string",
+            "minLength": 1
+        },
+        "docker_image_used": {
+            "enum": [
+                "Julia",
+                "Python",
+                "R"
+            ]
+        },
+        "makes_use_of_eopf_zarr_sample_service_data": {
+            "const": true
+        },
+        "incorporates_one_or_more_eopf_plugins": {
+            "type": "boolean"
+        },
+        "data_sources_used": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+                "type": "string",
+                "enum": [
+                    "Sentinel-1",
+                    "Sentinel-2",
+                    "Sentinel-3"
+                ]
+            }
+        },
+        "all_declarations_affirmed": {
+            "const": true
+        }
+    },
+    "required": [
+        "contact_name",
+        "email_address",
+        "notebook_authors",
+        "notebook_title",
+        "docker_image_used",
+        "makes_use_of_eopf_zarr_sample_service_data",
+        "incorporates_one_or_more_eopf_plugins",
+        "data_sources_used",
+        "all_declarations_affirmed"
+    ],
+    "additionalProperties": false
+}
