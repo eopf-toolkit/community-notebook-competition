@@ -24,6 +24,7 @@ docker_image_used: "R" # One of "R", "Python", or "Julia"
 makes_use_of_eopf_zarr_sample_service_data: true # Must be true
 incorporates_one_or_more_eopf_plugins: true # Either true or false
 data_sources_used: ["Sentinel-1", "Sentinel-3"] # Must contain at least one of "Sentinel-1", "Sentinel-2", or "Sentinel-3"
+had_challenges_working_with_sample_service_data: false # Either true or false - If true, please leave feedback!
 all_declarations_affirmed: true # Must be true
 ---
 ```

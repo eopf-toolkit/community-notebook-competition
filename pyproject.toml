@@ -12,3 +12,8 @@ dependencies = [
     "python-frontmatter>=1.1.0",
     "ruff>=0.14.0",
 ]
+
+[tool.ruff]
+exclude = [
+    "eopf_template.ipynb"
+]
