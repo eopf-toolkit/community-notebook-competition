@@ -18,9 +18,7 @@ This is where you'll dive deep into the [EOPF 101 book](https://eopf-toolkit.git
 The [EOPF Sentinel Zarr Sample Service JupyterLab](https://jupyterhub.user.eopf.eodc.eu/hub) will be your primary development environment. Stay tuned for special Docker images for Python, Julia and R that will provide standard environments for the notebooks.
 
 ### Stage 3: Notebook Submission
-Submit your completed Jupyter Notebook via GitHub once complete, by 30 January 2026 (23:59 UTC+1). Clear guidelines, a notebook template and evaluation criteria will be provided in advance via this GitHub repository. We will also provide some challenge prompts to help get you started.
-
-Please follow the guide in `README.md` in [submissions](./submissions/README.md) to submit your notebook.
+Submit your completed Jupyter Notebook via GitHub once complete, between 1 November 2025 and 30 January 2026 (23:59 UTC+1). Clear guidelines, a notebook template and evaluation criteria will be provided in advance via this GitHub repository. We will also provide some challenge prompts to help get you started. Stay tuned!
 
 ### Stage 4: Judging & Evaluation
 A panel of expert judges will evaluate each submission based on technical soundness, effective use of the EOPF Zarr data and plugins and educational quality.
