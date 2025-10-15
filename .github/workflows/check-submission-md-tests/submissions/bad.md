@@ -6,6 +6,7 @@ notebook_title: ""
 docker_image_used: "MY_OWN"
 makes_use_of_eopf_zarr_sample_service_data: false
 incorporates_one_or_more_eopf_plugins: true
+had_challenges_working_with_sample_service_data: false
 all_declarations_affirmed: false
 ---
 

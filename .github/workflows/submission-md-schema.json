@@ -46,6 +46,9 @@
                 ]
             }
         },
+        "had_challenges_working_with_sample_service_data": {
+            "type": "boolean"
+        },
         "all_declarations_affirmed": {
             "const": true
         }
@@ -59,6 +62,7 @@
         "makes_use_of_eopf_zarr_sample_service_data",
         "incorporates_one_or_more_eopf_plugins",
         "data_sources_used",
+        "had_challenges_working_with_sample_service_data",
         "all_declarations_affirmed"
     ],
     "additionalProperties": false
