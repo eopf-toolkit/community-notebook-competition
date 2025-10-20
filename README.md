@@ -17,7 +17,7 @@ This is where you'll dive deep into the [EOPF 101 book](https://eopf-toolkit.git
 
 The [EOPF Sentinel Zarr Sample Service JupyterLab](https://jupyterhub.user.eopf.eodc.eu/hub) will be your primary development environment.
 
-Once you access with your CDSE credentials, you will get the chance to choose the language you want to develop with!
+Once you access with your [CDSE](https://dataspace.copernicus.eu/) credentials, you will get the chance to choose the language you want to develop with! If you are not yet registered, you can do it [here](https://identity.dataspace.copernicus.eu/auth/realms/CDSE/login-actions/registration?client_id=account-console&tab_id=B4WzkvfBZbA).
 
 <p align="center"><img title="Choose your language" alt="Alt text" src="/img/serv_op.png" class="center" ></p>
 
