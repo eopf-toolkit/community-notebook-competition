@@ -19,9 +19,7 @@ The [EOPF Sentinel Zarr Sample Service JupyterLab](https://jupyterhub.user.eopf.
 
 Once you access with your CDSE credentials, you will get the chance to choose the language you want to develop with!
 
-<div align="center">
-![Choose your language](img/serv_op.png)
-</div>
+<p align="center"><img title="Choose your language" alt="Alt text" src="/img/serv_op.png" class="center" ></p>
 
 
 ### Stage 3: Notebook Submission
