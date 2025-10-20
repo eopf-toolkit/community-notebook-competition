@@ -15,7 +15,14 @@ We'll also host an [introductory webinar on 16 October 2025](https://buytickets.
 ### Stage 2: Learning & Development
 This is where you'll dive deep into the [EOPF 101 book](https://eopf-toolkit.github.io/eopf-101/) and start building your notebook. We'll provide support through our [Discourse forum](https://discourse.eopf.copernicus.eu/t/eopf-zarr-activities-at-big-data-from-space/475), live Q&A sessions, and guided co-working sessions. 
 
-The [EOPF Sentinel Zarr Sample Service JupyterLab](https://jupyterhub.user.eopf.eodc.eu/hub) will be your primary development environment. Stay tuned for special Docker images for Python, Julia and R that will provide standard environments for the notebooks.
+The [EOPF Sentinel Zarr Sample Service JupyterLab](https://jupyterhub.user.eopf.eodc.eu/hub) will be your primary development environment.
+
+Once you access with your CDSE credentials, you will get the chance to choose the language you want to develop with!
+
+<div align="center">
+![Choose your language](img/serv_op.png)
+</div>
+
 
 ### Stage 3: Notebook Submission
 Submit your completed Jupyter Notebook via GitHub once complete, between 1 November 2025 and 30 January 2026 (23:59 UTC+1). Clear guidelines, a notebook template and evaluation criteria will be provided in advance via this GitHub repository. We will also provide some challenge prompts to help get you started. Stay tuned!
