@@ -19,7 +19,8 @@ The [EOPF Sentinel Zarr Sample Service JupyterLab](https://jupyterhub.user.eopf.
 
 Once you access with your [CDSE](https://dataspace.copernicus.eu/) credentials, you will get the chance to choose the language you want to develop with! If you are not yet registered, you can do it [here](https://identity.dataspace.copernicus.eu/auth/realms/CDSE/login-actions/registration?client_id=account-console&tab_id=B4WzkvfBZbA).
 
-Once you start your server, you will be able to select the docker image you want to work with. Select: **Specify an existing docker image**.
+When starting your server, you will be able to select the docker image you want to work with.<br>
+Select: **Specify an existing docker image**.
 
 <p align="center"><img title="Select docker image" alt="Alt text" src="/img/sel_di.png" class="center" ></p>
 
@@ -29,10 +30,10 @@ Once this option is displayed:
 
 Select among:
 
-* For Python:
+* Python:<br>
 `4zm3809f.c1.de1.container-registry.ovh.net/eopf-toolkit-python/eopf-toolkit-python:competition`
 
-* For R:
+* R:<br>
 `4zm3809f.c1.de1.container-registry.ovh.net/eopf-toolkit-r/eopf-toolkit-r:competition`
 
 And select **Start**.
