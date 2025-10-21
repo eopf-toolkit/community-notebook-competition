@@ -19,8 +19,24 @@ The [EOPF Sentinel Zarr Sample Service JupyterLab](https://jupyterhub.user.eopf.
 
 Once you access with your [CDSE](https://dataspace.copernicus.eu/) credentials, you will get the chance to choose the language you want to develop with! If you are not yet registered, you can do it [here](https://identity.dataspace.copernicus.eu/auth/realms/CDSE/login-actions/registration?client_id=account-console&tab_id=B4WzkvfBZbA).
 
-<p align="center"><img title="Choose your language" alt="Alt text" src="/img/serv_op.png" class="center" ></p>
+When starting your server, you will be able to select the docker image you want to work with.<br>
+Select: **Specify an existing docker image**.
 
+<p align="center"><img title="Select docker image" alt="Alt text" src="/img/sel_di.png" class="center" ></p>
+
+Once this option is displayed:
+
+<p align="center"><img title="Define the docker option" alt="Alt text" src="/img/def_di.png" class="center" ></p>
+
+Select among:
+
+* Python:<br>
+`4zm3809f.c1.de1.container-registry.ovh.net/eopf-toolkit-python/eopf-toolkit-python:competition`
+
+* R:<br>
+`4zm3809f.c1.de1.container-registry.ovh.net/eopf-toolkit-r/eopf-toolkit-r:competition`
+
+And select **Start**.
 
 ### Stage 3: Notebook Submission
 Submit your completed Jupyter Notebook via GitHub once complete, between 1 November 2025 and 30 January 2026 (23:59 UTC+1). Clear guidelines, a notebook template and evaluation criteria will be provided in advance via this GitHub repository. We will also provide some challenge prompts to help get you started. Stay tuned!
