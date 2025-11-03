@@ -19,7 +19,7 @@ The [EOPF Sentinel Zarr Sample Service JupyterLab](https://jupyterhub.user.eopf.
 
 Once you access with your [CDSE](https://dataspace.copernicus.eu/) credentials, you will get the chance to choose the language you want to develop with! If you are not yet registered, you can do it [here](https://identity.dataspace.copernicus.eu/auth/realms/CDSE/login-actions/registration?client_id=account-console&tab_id=B4WzkvfBZbA).
 
-When starting your server, you will be able to select the **Docker image** you want to work with. The EOPF-Toolkit has designed updated environments to support your development!<br>
+When starting your server, you will be able to select the **Docker image** you want to work with. The EOPF Toolkit has designed updated environments to support your development!<br>
 
 You can select: **Specify an existing docker image**.
 
@@ -29,23 +29,23 @@ Once you click, the following box is displayed:
 
 <p align="center"><img title="Define the docker option" alt="Alt text" src="/img/def_di.png" class="center" ></p>
 
-In the box, you can copy the following custom lines:
+In the box, you can copy and paste the following custom lines:
 * If you would like to develop your workflow in Python:<br>
 `4zm3809f.c1.de1.container-registry.ovh.net/eopf-toolkit-python/eopf-toolkit-python:competition`
 
-* Or, when you are more into R:<br>
+* Or, if you prefer to use R:<br>
 `4zm3809f.c1.de1.container-registry.ovh.net/eopf-toolkit-r/eopf-toolkit-r:competition`
 
 And select **Start**.
 
 You will be redirected to your development space in the JupyterLab!<br>
 
-To get some ideas, how to get started with your development, and a step-by-step guide you can access the introductory session [here](https://www.youtube.com/watch?v=N7_C3rxjjp4).
+To get some ideas on how to get started with your development, watch the introductory session [here](https://www.youtube.com/watch?v=N7_C3rxjjp4).
 
 ### Stage 3: Notebook Submission
 Submit your completed Jupyter Notebook via GitHub once complete, between 1 November 2025 and 30 January 2026 (23:59 UTC+1).
 
-You will need to fill in a Submission Form, and follow [these instructions](https://github.com/eopf-toolkit/community-notebook-competition/tree/main/submissions). 
+You will need to fill in a Submission Form (in a Markdown file), and follow [these instructions](https://github.com/eopf-toolkit/community-notebook-competition/tree/main/submissions). 
 
 For a step-by-step on how to develop and submit your work, you can follow [this video](https://www.youtube.com/watch?v=hh7exW_F1ME). Here we guide you through the submission in GitHub!
 
@@ -55,14 +55,14 @@ A panel of expert judges will evaluate each submission based on technical soundn
 ### Stage 5: Awards & Showcase
 The competition culminates in an online award showcase where **winners** and **highly commended entries** will be announced. 
 
-The top notebooks will be featured in the EOPF-101 book as new case studies and you will be given the chance to be a co-author of a publication on EOPF-101. 
+The top notebooks will be featured in the EOPF 101 book as new case studies and you will be given the chance to be a co-author of a publication on EOPF-101. 
 
 There is also a prize pool of 10 000 Euros in upskilling vouchers sponsored by [thriveGEO](https://www.thrivegeo.com). In addition, there will be exciting ESA swag such as Sentinel-2 Lego sets up for grabs! 
 
 ## Rules and Eligibility
 ### Eligibility
 The competition is open to individuals and teams.
-All participants must register through the official registration form.
+All participants must register through the official registration form." to "All participants must submit their notebooks and submission forms using GitHub. If you need help, please join one of our [office hours or co-working sessions](https://form.jotform.com/252893826285067).
 
 ### Submission Requirements
 Submissions must be a Jupyter Notebook (`.ipynb` file).
@@ -72,7 +72,7 @@ Submissions must be a Jupyter Notebook (`.ipynb` file).
 - All code must be original or be clearly cited. All AI use must be disclosed.
 
 ### Intellectual Property
-By submitting a notebook, you grant the European Space Agency and thriveGEO GmbH a non-exclusive license to use, reproduce, modify, and display your work for promotional and educational purposes, including featuring it in the EOPF-101 online book. 
+By submitting a notebook, you grant the European Space Agency and thriveGEO GmbH a non-exclusive license to use, reproduce, modify, and display your work for promotional and educational purposes, including featuring it in the EOPF 101 online book. 
 
 All notebooks will be submitted and published with an open source license. Detailed instructions to follow.
 
