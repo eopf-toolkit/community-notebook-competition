@@ -19,45 +19,53 @@ The [EOPF Sentinel Zarr Sample Service JupyterLab](https://jupyterhub.user.eopf.
 
 Once you access with your [CDSE](https://dataspace.copernicus.eu/) credentials, you will get the chance to choose the language you want to develop with! If you are not yet registered, you can do it [here](https://identity.dataspace.copernicus.eu/auth/realms/CDSE/login-actions/registration?client_id=account-console&tab_id=B4WzkvfBZbA).
 
-When starting your server, you will be able to select the docker image you want to work with.<br>
-Select: **Specify an existing docker image**.
+When starting your server, you will be able to select the **Docker image** you want to work with. The EOPF Toolkit has designed updated environments to support your development!<br>
+
+You can select: **Specify an existing docker image**.
 
 <p align="center"><img title="Select docker image" alt="Alt text" src="/img/sel_di.png" class="center" ></p>
 
-Once this option is displayed:
+Once you click, the following box is displayed:
 
 <p align="center"><img title="Define the docker option" alt="Alt text" src="/img/def_di.png" class="center" ></p>
 
-Select among:
-
-* Python:<br>
+In the box, you can copy and paste the following custom lines:
+* If you would like to develop your workflow in Python:<br>
 `4zm3809f.c1.de1.container-registry.ovh.net/eopf-toolkit-python/eopf-toolkit-python:competition`
 
-* R:<br>
+* Or, if you prefer to use R:<br>
 `4zm3809f.c1.de1.container-registry.ovh.net/eopf-toolkit-r/eopf-toolkit-r:competition`
 
 And select **Start**.
 
+You will be redirected to your development space in the JupyterLab!<br>
+
+To get some ideas on how to get started with your development, watch the introductory session [here](https://www.youtube.com/watch?v=N7_C3rxjjp4).
+
 ### Stage 3: Notebook Submission
-Submit your completed Jupyter Notebook via GitHub once complete, between 1 November 2025 and 30 January 2026 (23:59 UTC+1). Clear guidelines, a notebook template and evaluation criteria will be provided in advance via this GitHub repository. We will also provide some challenge prompts to help get you started. Stay tuned!
+Submit your completed Jupyter Notebook via GitHub once complete, between 1 November 2025 and 30 January 2026 (23:59 UTC+1).
+
+You will need to fill in a Submission Form (in a Markdown file), and follow [these instructions](https://github.com/eopf-toolkit/community-notebook-competition/tree/main/submissions). 
+
+For a step-by-step on how to develop and submit your work, you can follow [this video](https://www.youtube.com/watch?v=hh7exW_F1ME). Here we guide you through the submission in GitHub!
 
 ### Stage 4: Judging & Evaluation
 A panel of expert judges will evaluate each submission based on technical soundness, effective use of the EOPF Zarr data and plugins and educational quality.
 
 ### Stage 5: Awards & Showcase
-The competition culminates in an online awards showcase where winners and highly commended entries will be announced. 
+The competition culminates in an online award showcase where **winners** and **highly commended entries** will be announced. 
 
-The top notebooks will be featured in the EOPF 101 book as new case studies and you will be given the chance to be a co-author of a publication on EOPF 101. 
+The top notebooks will be featured in the EOPF 101 book as new case studies and you will be given the chance to be a co-author of a publication on EOPF-101. 
 
 There is also a prize pool of 10 000 Euros in upskilling vouchers sponsored by [thriveGEO](https://www.thrivegeo.com). In addition, there will be exciting ESA swag such as Sentinel-2 Lego sets up for grabs! 
 
 ## Rules and Eligibility
 ### Eligibility
 The competition is open to individuals and teams.
-All participants must register through the official registration form.
+All participants must register through the official registration form." to "All participants must submit their notebooks and submission forms using GitHub. If you need help, please join one of our [office hours or co-working sessions](https://form.jotform.com/252893826285067).
 
 ### Submission Requirements
-Submissions must be a Jupyter Notebook (.ipynb file).
+Submissions must be a Jupyter Notebook (`.ipynb` file).
 - The notebook must be functional and reproducible.
 - The notebook must make use of the EOPF Zarr Sample Service data.
 - The notebook may incorporate one or more EOPF plugins, though this is not a mandatory requirement.
@@ -82,7 +90,7 @@ Absolutely not! This competition is specifically designed for Sentinel data user
 ### Can I work in a team?
 Yes, you can. You'll be able to form teams during the learning and development phase of the competition. We'll encourage participants to use the Discourse forum to connect with potential teammates.
 ### What are the prizes?
-There is a prize pool of 10 000 Euros worth of upskilling vouchers provided by thriveGEO. In addition to prizes, winning notebooks will be featured in the EOPF 101 book and showcased at the awards ceremony, giving you visibility within the Earth observation community. You will be given the chance to be a co-author of a publication on EOPF 101. 
+There is a prize pool of 10 000 Euros worth of upskilling vouchers provided by thriveGEO. In addition to prizes, winning notebooks will be featured in the EOPF-101 book and showcased at the awards ceremony, giving you visibility within the Earth observation community. You will be given the chance to be a co-author of a publication on EOPF 101. 
 ### Where can I find help?
 We'll be offering support through our dedicated Discourse forum, live online office hours, and guided co-working sessions. Stay tuned for more details on these support channels.
 
