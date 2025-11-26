@@ -47,10 +47,10 @@ Submit your completed Jupyter Notebook via GitHub once complete, between 1 Novem
 
 You will need to fill in a Submission Form (in a Markdown file), and follow [these instructions](https://github.com/eopf-toolkit/community-notebook-competition/tree/main/submissions). 
 
-For a step-by-step on how to develop and submit your work, you can follow [this video](https://www.youtube.com/watch?v=hh7exW_F1ME). Here we guide you through the submission in GitHub!
+For a step-by-step on how to submit your work, you can follow [this video](https://www.youtube.com/watch?v=Z37fNmIUeAg). Here we guide you through the submission in GitHub!
 
 ### Stage 4: Judging & Evaluation
-A panel of expert judges will evaluate each submission based on technical soundness, effective use of the EOPF Zarr data and plugins and educational quality.
+A panel of expert judges will evaluate each submission based on technical soundness, effective use of the **EOPF Zarr** data and plugins and educational quality.
 
 ### Stage 5: Awards & Showcase
 The competition culminates in an online award showcase where **winners** and **highly commended entries** will be announced. 
