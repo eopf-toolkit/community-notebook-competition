@@ -6,7 +6,7 @@ notebook_title: "Ocean Wind Field Classification Using CNNs and Sentinel-1 Level
 docker_image_used: "Python"
 makes_use_of_eopf_zarr_sample_service_data: true
 incorporates_one_or_more_eopf_plugins: true
-data_sources_used: ["Sentinel-1"] 
+data_sources_used: ["Sentinel-1"]
 had_challenges_working_with_sample_service_data: true 
 all_declarations_affirmed: true
 ---
