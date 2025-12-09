@@ -1,5 +1,5 @@
 ---
-contact_name: "Harsh Shinde" 
+contact_name: "Harsh Shinde"
 email_address: "lmfphks8@gmail.com"
 notebook_authors: ["Harsh Shinde"]
 notebook_title: "Ocean Wind Field Classification Using CNNs and Sentinel-1 Level-2 OCN"
