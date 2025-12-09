@@ -12,7 +12,6 @@ all_declarations_affirmed: true
 ---
 
 # Submission
-  
 ## Abstract (100 words)
 This notebook presents an end-to-end workflow for classifying ocean wind conditions using Sentinel-1 Level-2 Ocean (OCN) data accessed through the EOPF STAC service. We analyze 767 wind-field scenes over the North Sea (1°–8°E, 51°–55°N) from February to October 2025, converting SAR-derived wind speed grids into normalized 128×128 inputs for a Convolutional Neural Network (CNN). The model classifies wind regimes into Calm (≤5 m/s), Moderate (5–12 m/s), and High (>12 m/s) categories. Results demonstrate the effectiveness of CNN-based processing for automated marine wind monitoring, highlighting the utility of Sentinel-1 OCN products for operational ocean applications.
 
