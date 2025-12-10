@@ -47,10 +47,11 @@ submissions/exploring_sentinel_2_for_use_in_agriculture/submission.md
 
 ## Submitting to the competition
 
-If you are familiar with using `git` and `GitHub`, create a branch, commit your submission files created following the above instructions, and then raise a `Pull Request` against this repository.
+If you are familiar with using `git` and `GitHub`, fork the competition repository, clone the forked repository locally or to the JupyterHub instance, commit your submission files created following the above instructions, and then raise a `Pull Request` against this repository.
 
 If you are new to `git` and `GitHub`, please refer to the following guides on how to contribute to this repository:
 
+- Forking a repository: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
 - Cloning a repository, creating a branch, creating a commit, and pushing that branch: https://docs.github.com/en/get-started/using-git/about-git#example-contribute-to-an-existing-repository
 - Creating a Pull Request once you have a branch with your changes: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request
 
