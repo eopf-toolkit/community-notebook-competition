@@ -43,7 +43,7 @@ You will be redirected to your development space in the JupyterLab!<br>
 To get some ideas on how to get started with your development, watch the introductory session [here](https://www.youtube.com/watch?v=N7_C3rxjjp4).
 
 ### Stage 3: Notebook Submission
-Submit your completed Jupyter Notebook via GitHub once complete, between 1 November 2025 and 7 February 2026 (23:59 UTC+1).
+Submit your completed Jupyter Notebook via GitHub once complete, between 1 November 2025 and 15 March 2026 (23:59 UTC+1).
 
 You will need to fill in a Submission Form (in a Markdown file), and follow [these instructions](https://github.com/eopf-toolkit/community-notebook-competition/tree/main/submissions). 
 
