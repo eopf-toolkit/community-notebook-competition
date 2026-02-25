@@ -10,10 +10,8 @@ The competition is structured in five stages, designed to guide you from learnin
 ### Stage 1: Launch & Registration
 The competition officially begins with its launch at Big Data in Space on 30 September 2025. During this stage, you'll be able to [register your interest](https://thrivegeo.com/eopf-toolkit-competition/) to receive updates!
 
-We'll also host an [introductory webinar on 16 October 2025](https://buytickets.at/thrivegeo/1879939) to help you get acquainted with the EOPF Sample Service ecosystem and the resources available to you. Sign-up now! 
-
 ### Stage 2: Learning & Development
-This is where you'll dive deep into the [EOPF 101 book](https://eopf-toolkit.github.io/eopf-101/) and start building your notebook. We'll provide support through our [Discourse forum](https://discourse.eopf.copernicus.eu/t/eopf-zarr-activities-at-big-data-from-space/475), live Q&A sessions, and guided co-working sessions. 
+This is where you'll dive deep into the [EOPF 101 book](https://eopf-toolkit.github.io/eopf-101/) and start building your notebook. We'll provide support through our [Slack workspace]([https://discourse.eopf.copernicus.eu/t/eopf-zarr-activities-at-big-data-from-space/475](https://join.slack.com/t/eopfnotebook/shared_invite/zt-3oj3483f9-ryErk_vtmN6bnlaWKA7JAQ)).
 
 The [EOPF Sentinel Zarr Sample Service JupyterLab](https://jupyterhub.user.eopf.eodc.eu/hub) will be your primary development environment.
 
@@ -62,7 +60,7 @@ There is also a prize pool of 10 000 Euros in upskilling vouchers sponsored by [
 ## Rules and Eligibility
 ### Eligibility
 The competition is open to individuals and teams.
-All participants must register through the official registration form." to "All participants must submit their notebooks and submission forms using GitHub. If you need help, please join one of our [office hours or co-working sessions](https://form.jotform.com/252893826285067).
+All participants must register through the official registration form." to "All participants must submit their notebooks and submission forms using GitHub. If you need help, please join our [Slack workspace](https://join.slack.com/t/eopfnotebook/shared_invite/zt-3oj3483f9-ryErk_vtmN6bnlaWKA7JAQ).
 
 ### Submission Requirements
 Submissions must be a Jupyter Notebook (`.ipynb` file).
@@ -92,5 +90,5 @@ Yes, you can. You'll be able to form teams during the learning and development p
 ### What are the prizes?
 There is a prize pool of 10 000 Euros worth of upskilling vouchers provided by thriveGEO. In addition to prizes, winning notebooks will be featured in the EOPF-101 book and showcased at the awards ceremony, giving you visibility within the Earth observation community. You will be given the chance to be a co-author of a publication on EOPF 101. 
 ### Where can I find help?
-We'll be offering support through our dedicated Discourse forum, live online office hours, and guided co-working sessions. Stay tuned for more details on these support channels.
+We'll be offering support through our dedicated [Slack workspace](https://join.slack.com/t/eopfnotebook/shared_invite/zt-3oj3483f9-ryErk_vtmN6bnlaWKA7JAQ).
 
