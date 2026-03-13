@@ -45,3 +45,5 @@ By submitting this notebook:
 
 ## Notes (optional)
 
+A big thank-you to the EOPF team. The [EOPF 101 book](https://eopf-toolkit.github.io/eopf-101/), worked examples, and responsive GitHub support made the experience much smoother for newcomers to cloud-native EO.
+
