@@ -4,7 +4,7 @@ email_address: "brivadeneira@protonmail.com"
 notebook_authors: [
     "Bibiana Rivadeneira"
 ]
-notebook_title: " 🐆Wildfire *(Panthera onca/Yaguareté)* health vegetation corridors monitoring: a multi-collection & multi-datasets *("popurrí")* fusion approach"
+notebook_title: " Wildfire *(Panthera onca/Yaguareté)* health vegetation corridors monitoring: a multi-collection & multi-datasets *("popurrí")* fusion approach"
 docker_image_used: "Python"
 makes_use_of_eopf_zarr_sample_service_data: true
 incorporates_one_or_more_eopf_plugins: true
