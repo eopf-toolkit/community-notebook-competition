@@ -22,11 +22,11 @@ dependencies = [
     "requests>=2.32.5,<3",
     "rasterio>=1.5.0,<2",
     "pytz>=2025.2,<2026",
-    "modular",
     "ipykernel>=7.1.0,<8",
     "ipyleaflet>=0.20.0,<0.21",
     "matplotlib>=3.10.8,<4",
     "folium>=0.20.0,<0.21",
+    "biophysicalop",
 ]
 
 [tool.ruff]
@@ -37,5 +37,10 @@ exclude = [
 [tool.uv]
 prerelease = "allow"
 
-[tool.uv.pip]
-extra-index-url = ["https://whl.modular.com/nightly/simple/"]
+[[tool.uv.index]]
+name = "modular-nightly"
+url = "https://whl.modular.com/nightly/simple/"
+
+[tool.uv.sources]
+modular = { index = "modular-nightly" }
+biophysicalop = { git = "https://github.com/Geomatys/biophysicalop.git" }
