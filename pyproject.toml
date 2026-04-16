@@ -34,13 +34,5 @@ exclude = [
     "eopf_template.ipynb"
 ]
 
-[tool.uv]
-prerelease = "allow"
-
-[[tool.uv.index]]
-name = "modular-nightly"
-url = "https://whl.modular.com/nightly/simple/"
-
 [tool.uv.sources]
-modular = { index = "modular-nightly" }
 biophysicalop = { git = "https://github.com/Geomatys/biophysicalop.git" }
